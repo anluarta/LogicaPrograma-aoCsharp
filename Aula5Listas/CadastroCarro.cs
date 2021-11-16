@@ -48,48 +48,40 @@ namespace Aula5Listas
             }
         }
 
-        private void Inclusao()
-        {
-            Console.WriteLine("Qual a Marca");
-            string marca = Console.ReadLine();
-            var marcaproibida = "JAGUAR";
-            while (marcaproibida == marca)
-            {
-                Console.Clear();
-                Console.WriteLine("Não é possível cadastrar esse tipo de marca");
-                Console.WriteLine("Digite outra Marca");
-                marca = Console.ReadLine();
-            }
+        private int Inclusao()
+        {            
+                Console.WriteLine("Qual a Marca");
+                string marca = Console.ReadLine();
+                var marcaproibida = "JAGUAR";
 
-            Console.WriteLine("Qual o modelo");
-            string modelo = Console.ReadLine();            
+                while (marcaproibida == marca)
+                {
+                    Console.Clear();
+                    Console.WriteLine("Não é possível cadastrar esse tipo de marca");
+                    Console.WriteLine("Digite outra Marca");
+                    marca = Console.ReadLine();
+                }
 
-            Console.WriteLine("Qual a cor ");
-            string cor = Console.ReadLine();
+                Console.WriteLine("Qual o modelo");
+                string modelo = Console.ReadLine();
 
-            Console.WriteLine("Qual Quantidade de Portas");
-            int portas = int.Parse(Console.ReadLine());
-            //var quantidadeportas = 0;
+                Console.WriteLine("Qual a cor ");
+                string cor = Console.ReadLine();
 
-            if(portas ==2)
-            {
-               
-            }
+                Console.WriteLine("Qual Quantidade de Portas");
+                int portas = int.Parse(Console.ReadLine());
+                //var quantiportasnaoaceita1 = 3;
+                //var portasnaoaceita2=
 
+                var carro = new Carro();
+
+                carro.Marca = marca;
+                carro.Modelo = modelo;
+                carro.Cor = cor;
+                carro.Portas = portas;
+
+                Carros.Add(carro);
             
-                                          
-                                            
-
-            var carro = new Carro();
-
-            carro.Marca = marca;
-            carro.Modelo = modelo;
-            carro.Cor = cor;
-            carro.Portas = portas;
-
-            
-            Carros.Add(carro);
         }
-
     }
 }
