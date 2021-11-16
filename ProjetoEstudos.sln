@@ -11,45 +11,57 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula3Matrizes", "Aula4Matri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula4Listas", "Aula5Listas\Aula4Listas.csproj", "{5293F8A5-BF18-4217-867D-D523D64ED01F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula5TipoBasico", "TipoBasico\Aula5TipoBasico.csproj", "{8CF6D850-B9EA-4052-BB56-6806DE6F3F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula5TipoBasico", "TipoBasico\Aula5TipoBasico.csproj", "{8CF6D850-B9EA-4052-BB56-6806DE6F3F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDadosP1", "SaidaDadosP1\SaidaDadosP1.csproj", "{969858EC-9B6B-491C-B3FE-56575A57D564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDadosP1", "SaidaDadosP1\SaidaDadosP1.csproj", "{969858EC-9B6B-491C-B3FE-56575A57D564}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDadosP2", "SaidaDadosP2\SaidaDadosP2.csproj", "{31647D70-8240-40CE-9DDF-08A817C2193E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDadosP2", "SaidaDadosP2\SaidaDadosP2.csproj", "{31647D70-8240-40CE-9DDF-08A817C2193E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{058D1488-8E88-4C73-8A63-D388117D6365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresDeAtribuicao", "OperadoresDeAtribuicao\OperadoresDeAtribuicao.csproj", "{058D1488-8E88-4C73-8A63-D388117D6365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmetico", "OperadoresAritmetico\OperadoresAritmetico.csproj", "{E1CF3624-8E81-4EA9-84E5-386716209E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmetico", "OperadoresAritmetico\OperadoresAritmetico.csproj", "{E1CF3624-8E81-4EA9-84E5-386716209E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\ConversaoImplicitaeCasting.csproj", "{3FF75602-0D1A-4E19-9BDF-4D661D4123FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoImplicitaeCasting", "ConversaoImplicitaeCasting\ConversaoImplicitaeCasting.csproj", "{3FF75602-0D1A-4E19-9BDF-4D661D4123FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDadosP3", "SaidaDadosP3\SaidaDadosP3.csproj", "{D84F1FE9-D6A8-466B-8FB5-BC157296CB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDadosP3", "SaidaDadosP3\SaidaDadosP3.csproj", "{D84F1FE9-D6A8-466B-8FB5-BC157296CB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDadosP4", "SaidaDadosP4\SaidaDadosP4.csproj", "{F4AA7772-8701-4F0E-9986-D69A634CD767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDadosP4", "SaidaDadosP4\SaidaDadosP4.csproj", "{F4AA7772-8701-4F0E-9986-D69A634CD767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitDeFormaErrada", "SplitDeFormaErrada\SplitDeFormaErrada.csproj", "{3BB3F02A-B583-4F9D-BA45-F49E540C62B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitDeFormaErrada", "SplitDeFormaErrada\SplitDeFormaErrada.csproj", "{3BB3F02A-B583-4F9D-BA45-F49E540C62B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitDeFormaCorreta", "SplitDeFormaCorreta\SplitDeFormaCorreta.csproj", "{D2237049-7CDA-4954-9671-F9CBADDEBD51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitDeFormaCorreta", "SplitDeFormaCorreta\SplitDeFormaCorreta.csproj", "{D2237049-7CDA-4954-9671-F9CBADDEBD51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitExercicios", "SplitExercicios\SplitExercicios.csproj", "{4A27BD19-2C3D-4932-834E-4FC514BCE17B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitExercicios", "SplitExercicios\SplitExercicios.csproj", "{4A27BD19-2C3D-4932-834E-4FC514BCE17B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{FE8D122A-5F31-40AE-8595-F771098CAC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{FE8D122A-5F31-40AE-8595-F771098CAC3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\Temperatura.csproj", "{382FDA38-B6FF-47A3-B814-E6AD2DECCAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temperatura", "Temperatura\Temperatura.csproj", "{382FDA38-B6FF-47A3-B814-E6AD2DECCAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaBhaskara", "FormulaBhaskara\FormulaBhaskara.csproj", "{0BF1C81E-5B19-41AF-AAE6-5428F2EB1CF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaBhaskara", "FormulaBhaskara\FormulaBhaskara.csproj", "{0BF1C81E-5B19-41AF-AAE6-5428F2EB1CF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFeElseP1", "IFeElse\IFeElseP1.csproj", "{B4AB7F06-935A-4EF1-87C4-02AC6F56EB28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFeElseP1", "IFeElse\IFeElseP1.csproj", "{B4AB7F06-935A-4EF1-87C4-02AC6F56EB28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{442BAE27-3EC5-4B7D-9648-D7BFEFBEC875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada", "Tabuada\Tabuada.csproj", "{442BAE27-3EC5-4B7D-9648-D7BFEFBEC875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfeeElseP2", "IfeeElseP2\IfeeElseP2.csproj", "{58F12736-917A-4D93-9F5E-3C416FB9C2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfeeElseP2", "IfeeElseP2\IfeeElseP2.csproj", "{58F12736-917A-4D93-9F5E-3C416FB9C2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFeElseP3", "IFeElseP3\IFeElseP3.csproj", "{709B28F0-AEBF-41CF-8B6F-86E781D02C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFeElseP3", "IFeElseP3\IFeElseP3.csproj", "{709B28F0-AEBF-41CF-8B6F-86E781D02C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoFor", "LacoFor\LacoFor.csproj", "{D02DD743-5252-48E8-B484-7FA1EDA97E35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacoFor", "LacoFor\LacoFor.csproj", "{D02DD743-5252-48E8-B484-7FA1EDA97E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeNumeros", "LeNumeros\LeNumeros.csproj", "{726F9600-0118-4F80-A8EC-BC97BA1B2517}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeNumeros", "LeNumeros\LeNumeros.csproj", "{726F9600-0118-4F80-A8EC-BC97BA1B2517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaciamentoExercicios1", "InstaciamentoExercicios1\InstaciamentoExercicios1.csproj", "{288A494F-459E-4180-B47B-73C8F1EFF471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaciamentoExercicios2", "InstaciamentoExercicios2\InstaciamentoExercicios2.csproj", "{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoEstoque", "ProdutoEstoque\ProdutoEstoque.csproj", "{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaMarcel", "LojaMarcel\LojaMarcel.csproj", "{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkMarcel4", "WorkMarcel4\WorkMarcel4.csproj", "{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +165,30 @@ Global
 		{726F9600-0118-4F80-A8EC-BC97BA1B2517}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726F9600-0118-4F80-A8EC-BC97BA1B2517}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726F9600-0118-4F80-A8EC-BC97BA1B2517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288A494F-459E-4180-B47B-73C8F1EFF471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288A494F-459E-4180-B47B-73C8F1EFF471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288A494F-459E-4180-B47B-73C8F1EFF471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288A494F-459E-4180-B47B-73C8F1EFF471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
