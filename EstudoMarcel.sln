@@ -51,17 +51,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacoFor", "LacoFor\LacoFor.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeNumeros", "LeNumeros\LeNumeros.csproj", "{726F9600-0118-4F80-A8EC-BC97BA1B2517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaciamentoExercicios1", "InstaciamentoExercicios1\InstaciamentoExercicios1.csproj", "{288A494F-459E-4180-B47B-73C8F1EFF471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaciamentoExercicios1", "InstaciamentoExercicios1\InstaciamentoExercicios1.csproj", "{288A494F-459E-4180-B47B-73C8F1EFF471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaciamentoExercicios2", "InstaciamentoExercicios2\InstaciamentoExercicios2.csproj", "{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstaciamentoExercicios2", "InstaciamentoExercicios2\InstaciamentoExercicios2.csproj", "{29E82E9F-835C-4ACB-BE17-5EB2D60B26A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoEstoque", "ProdutoEstoque\ProdutoEstoque.csproj", "{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoEstoque", "ProdutoEstoque\ProdutoEstoque.csproj", "{DB6B7325-E8DF-46BF-A193-38F09D6EB40F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{1FA1D8DC-FEE1-4CD1-BF93-6EF9C00D772A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaMarcel", "LojaMarcel\LojaMarcel.csproj", "{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaMarcel", "LojaMarcel\LojaMarcel.csproj", "{1BBBEE35-1DA7-41FA-8BCE-B50ED5F5B405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkMarcel4", "WorkMarcel4\WorkMarcel4.csproj", "{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkMarcel4", "WorkMarcel4\WorkMarcel4.csproj", "{3334B81F-1C79-4DBB-BDCB-91BD54971ADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
